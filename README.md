@@ -40,8 +40,8 @@ The purpose of this portfolio is to present my work professionally and demonstra
 
 Feel free to connect with me for internships, collaborations, or freelance opportunities.
 
-- LinkedIn: www.linkedin.com/in/your-profile
-- Email: your.email@example.com
+- LinkedIn: www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sahil-ali-26259438a/)
+- Email: sahilali01032005@gmail.com
 
 ## Technologies Used
 
